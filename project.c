@@ -15,7 +15,7 @@ struct user{
 }records[50];
 void main1(int a){
   if(a==0)
-  printf("\t\t==================Welcome to Student Portal=====================\n");
+  printf("\t\t==================Welcome to Student Details=====================\n");
 }
 
 int main(){
@@ -255,5 +255,5 @@ void modi(){
 //function to end the code
 void end(){
   printf("\n=========================Thank You=============================\n");
-  printf("======================For Using Student Portal=======================\n");
+  printf("======================For Using Student Details=======================\n");
 }
